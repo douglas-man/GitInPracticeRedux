@@ -1,2 +1,12 @@
 = Git In Practice
 The hotly anticipated sequel to Git Through Praxis.
+
+
+Let’s create another commit:
+1
+Modify GitInPractice.asciidoc, and stage the changes in the index with git add .12
+C HAPTER 1
+2
+Local Git
+Run git commit --message 'Add opening joke. Funny?' . The output should
+resemble the following.
